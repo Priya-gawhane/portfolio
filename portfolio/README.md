@@ -2,7 +2,7 @@
 
 A modern developer portfolio built with **Next.js + Tailwind CSS** to showcase my work in **Python backend development, GenAI/LLM integration, and full-stack projects**.
 
-##  Features
+## Features
 - Minimal dark UI inspired by modern portfolios  
 - About, Skills, Experience, Projects, Contact sections  
 - GenAI + Agentic AI focused branding  
